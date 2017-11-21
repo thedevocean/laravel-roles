@@ -1,0 +1,11 @@
+{
+    "name": "devocean/roles",
+    "type": "plugin",
+    "authors": [
+    	{
+    		"name": "Martin Nemcek"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
